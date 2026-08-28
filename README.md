@@ -46,8 +46,8 @@ I'm about a year into my career in **infrastructure**, working hands-on with Lin
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=syafiqnzr&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=syafiqnzr&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=syafiqnzr&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=syafiqnzr&hide_border=true&theme=dark" />
 </p>
 
 ---
