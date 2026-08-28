@@ -6,9 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-~1%20year-2EA043?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-DevOps%20%26%20Security-0A66C2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Experience-~1%20year-2EA043?style=flat-square" /> <img src="https://img.shields.io/badge/Focus-DevOps%20%26%20Security-0A66C2?style=flat-square" /> <img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-success?style=flat-square" />
 </p>
 
 ---
@@ -29,28 +27,19 @@ I'm about a year into my career in **infrastructure**, working hands-on with Lin
 
 **Foundations**
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 **Monitoring**
 
-<img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
 
 **Security Fundamentals**
 
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/UFW%2FFirewall-2EA043?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/UFW%2FFirewall-2EA043?style=for-the-badge" />
 
 **Currently Learning**
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge" />
 
 ---
 
