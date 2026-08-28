@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Syafiq 👋</h1>
+<h1 align="center">Holla, I'm Syafiq 👋</h1>
 <h3 align="center">Infrastructure Engineer, growing into DevOps & Security</h3>
 
 <p align="center">
